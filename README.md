@@ -22,4 +22,5 @@ To understand the key features affecting survival, which can be used for buildin
 ## Deliverables:
 - ✔️ Jupyter Notebook containing code, visualizations, and observations. (Titanic_Analysis_Task5.ipynb)
 - ✔️ PDF report export (TITANIC DATASET REPORT.pdf).
+- ✔️ Titanic Dataset csv file (train.csv).
 
